@@ -31,8 +31,7 @@ public class JavaCalculator {
             break;
             default:
                 System.out.println("Illigal Operation");
-
-
+		 System.out.println("thankyou");
         }
 
     }
